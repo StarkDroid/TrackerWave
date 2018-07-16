@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Trackerwave</string>
+
+    <!-- Strings for Intro Slides-->
+    <string name="title_slide1">View Tickets</string>
+    <string name="desc_slide1">Place holder</string>
+    <string name="title_slide2">Create Tickets</string>
+    <string name="desc_slide2">placeholder</string>
+    <string name="title_slide3">Edit Tickets</string>
+    <string name="desc_slide3">placeholder</string>
+    <string name="title_slide4">All in one support system</string>
+    <string name="desc_slide4">placeholder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="start">Start</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_side_menu">SideMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tracker Wave</string>
+    <string name="nav_header_subtitle">Trishi@trackerwave.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
