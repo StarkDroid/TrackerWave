@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/amber_100">
+    android:background="@color/md_yellow_700">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -17,7 +17,7 @@
         <ImageView
             android:layout_width="@dimen/img_width"
             android:layout_height="@dimen/img_height"
-            android:src="@drawable/ic_create_ticket"
+            android:src="@drawable/ic_create"
             />
 
         <TextView
